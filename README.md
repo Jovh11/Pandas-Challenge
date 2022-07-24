@@ -1,1 +1,6 @@
 # Pandas-Challenge
+
+In the dataframe discussing the spending from a school per student there is some indication that the increase in spending per student is not helping the overall passrate. Instead it appears that the more money spent per student is lowering the overall performance of the schools. While the money spent per student is the factor examined here it is quite likely that the reason why these schools have more money to spend on these students may be more indicative of the lower passing rates. It is possible even likely that a government would give more money to schools that already have worse outcomes in an attempt to reverse this situation. 
+
+
+In the dataframe comparing the type of school to the outcomes of the education it is shown that the charter schools are having a greater passrate than that of the districts. Without further information it isn't particularly clear why this is. It could range from the districts having worse teachers or teaching methods to the much discussed grade inflation in a for profit charter school. If this were my field of study I would likely attempt to determine what differences are in these two educational models to see if there are lessons to be learned from the charter schools.
